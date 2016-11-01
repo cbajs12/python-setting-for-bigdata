@@ -1,1 +1,1 @@
-# spark-for-bigdata
+# python-setting-for-bigdata
